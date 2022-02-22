@@ -9,3 +9,8 @@
 - yadm-git (yay)
 - zsh
 - oh-my-zsh
+
+Commands for installin them:
+  sudo pacman -S ly i3-gaps rofi nitrogen zsh
+  yay -S yadm-git
+  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
