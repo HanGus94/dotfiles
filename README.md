@@ -10,7 +10,7 @@
 - zsh
 - oh-my-zsh
 
-Commands for installin them:
+Commands for installing them:
 ``` bash
 sudo pacman -S ly i3-gaps rofi nitrogen zsh
 yay -S yadm-git
